@@ -1,2 +1,2 @@
 # Exercicios_Uri
-Exercicíos Beecrowd
+Exercicíos Beecrowd em Javascript
